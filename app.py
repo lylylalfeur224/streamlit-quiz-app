@@ -31,7 +31,7 @@ questions = [
         "question": "Which protocol is used to send email?",
         "options": ["HTTP", "FTP", "SMTP", "SNMP"],
         "answer": "SMTP"
-    }
+    },
         {
         "question": "Which company developed the Windows operating system?",
         "options": ["Apple", "Google", "Microsoft", "IBM"],

@@ -14,7 +14,7 @@ st.sidebar.markdown("**Group:** 6")
 questions = [
     {
         "question": "What does CPU stand for?",
-        "options": ["Central Processing Unit", "Control Panel Unit", "Computer Personal Unit", "Central Process Utility"]
+        "options": ["Central Processing Unit", "Control Panel Unit", "Computer Personal Unit", "Central Process Utility"],
         "answer": "Central Processing Unit"
     },
     {

@@ -32,6 +32,31 @@ questions = [
         "options": ["HTTP", "FTP", "SMTP", "SNMP"],
         "answer": "SMTP"
     }
+        {
+        "question": "Which company developed the Windows operating system?",
+        "options": ["Apple", "Google", "Microsoft", "IBM"],
+        "answer": "Microsoft"
+    },
+    {
+        "question": "What does RAM stand for?",
+        "options": ["Readily Accessed Memory", "Random Access Memory", "Run Access Memory", "Rapid Application Memory"],
+        "answer": "Random Access Memory"
+    },
+    {
+        "question": "What is the extension of a Python file?",
+        "options": [".py", ".pt", ".pyt", ".pyth"],
+        "answer": ".py"
+    },
+    {
+        "question": "Which device is used to convert digital signals to analog?",
+        "options": ["Router", "Modem", "Switch", "Repeater"],
+        "answer": "Modem"
+    },
+    {
+        "question": "Which of the following is NOT an operating system?",
+        "options": ["Windows", "Linux", "Oracle", "macOS"],
+        "answer": "Oracle"
+    }
 ]
 
 # --- Session State ---
